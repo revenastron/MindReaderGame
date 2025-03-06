@@ -27,7 +27,7 @@ The primary goal of this project was to **publish an app on the Play Store** as 
 Unfortunately, the **college department's Play Store account** got suspended due to inactivity a few months ago. However, the project remains a **valuable learning experience** in app deployment.  
 
 ### 🏆 Future Improvements  
-- Adding **more player choices**  
+- Adding **more variety of choices**  
 - Implementing **animations & sounds**  
 - Improving the **prediction algorithm**  
 
